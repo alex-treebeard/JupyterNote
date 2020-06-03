@@ -16,4 +16,3 @@ Notebook documents are documents produced by the Jupyter Notebook App, which con
 - Jupyer project pages: http://jupyter.org
 - Documentation : jupyter-notebook.readthedocs.org
 
-
